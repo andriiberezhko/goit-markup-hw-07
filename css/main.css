@@ -763,7 +763,7 @@ body {
   color: #ffffff;
 }
 
-.footer__list {
+.address__list {
   margin-top: 20px;
   font-style: normal;
   font-weight: normal;
@@ -772,16 +772,16 @@ body {
   letter-spacing: 0.03em;
 }
 
-.footer__items {
+.address__items {
   margin-top: 9px;
 }
 
-.footer__link {
+.address__link {
   display: block;
   color: #757575;
 }
 
-.footer__link.adress {
+.address__link.adress {
   color: #ffffff;
 }
 
